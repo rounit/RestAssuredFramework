@@ -1,0 +1,10 @@
+com\qa\gorest\pojo\User$UserBuilder.class
+com\qa\gorest\utils\StringUtils.class
+com\qa\gorest\pojo\User.class
+com\qa\gorest\utils\ExcelUtil.class
+com\qa\gorest\utils\JsonPathValidator.class
+com\qa\gorest\constants\APIHttpStatus.class
+com\qa\gorest\configuration\ConfigurationManager.class
+com\qa\gorest\client\RestClient.class
+com\qa\gorest\frameworkexception\APIFrameworkException.class
+com\qa\gorest\constants\APIConstants.class
