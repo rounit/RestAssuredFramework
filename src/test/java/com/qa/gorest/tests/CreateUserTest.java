@@ -64,6 +64,11 @@ public class CreateUserTest extends BaseTest
 		          .then().log().all()
 		           .assertThat().statusCode(APIHttpStatus.OK_200.getCode())
 		           .assertThat().body("id", equalTo(userId));
+		
+		
+		 System.out.println("End of test...");
 	}
-
+	
+	
+      
 }
